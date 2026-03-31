@@ -1,7 +1,7 @@
 {
   "name": "bw-app-48-1774962252",
   "version": "1.0.0",
-  "description": "Ivory Relay monochrome ops dashboard",
+  "description": "Signal Atlas monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
